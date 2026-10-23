@@ -40,7 +40,7 @@ All original project documents, high-resolution photographs, and prototype demon
 | **Final Project Report** | [Smart_Medicine_Box_Report_AF52_Final.pdf](Smart_Medicine_Box_Report_AF52_Final.pdf) | Complete 13-page academic report with architecture and references |
 | **Presentation Slides** | [Smart_Robotic_Medicine_Box.pdf](Smart_Robotic_Medicine_Box.pdf) | 12 slide deck covering problem statement, teardown, and roadmap |
 | **Robot Prototype Front View** | [WhatsApp Image 2026-10-23 at 17.28.49.jpeg](WhatsApp%20Image%202026-10-23%20at%2017.28.49.jpeg) | Shows WALL-E inspired eyes, ESP32-CAM module, and track wheels |
-| **Team Demonstration Setup** | [WhatsApp Image 2026-10-23 at 17.28.49 (1).jpeg](WhatsApp%20Image%202026-10-23%20at%2017.28.49%20(1).jpeg) | Team with laptop presentation and robot hardware |
+| **Team Demonstration Setup** | [WhatsApp Image 2026-10-23 at 17.28.49 (1).jpeg](WhatsApp%20Image%202026-10-23%20at%2017.28.49%20%281%29.jpeg) | Team with laptop presentation and robot hardware |
 | **High-Resolution Presentation** | [WhatsApp Image 2026-10-23 at 16.15.00.jpeg](WhatsApp%20Image%202026-10-23%20at%2016.15.00.jpeg) | Close-up view of prototype chassis and project members |
 | **Prototype Demonstration Video** | [WhatsApp Video 2026-10-23 at 16.14.49.mp4](WhatsApp%20Video%202026-10-23%20at%2016.14.49.mp4) | 10-second video clip demonstrating the assembled prototype |
 

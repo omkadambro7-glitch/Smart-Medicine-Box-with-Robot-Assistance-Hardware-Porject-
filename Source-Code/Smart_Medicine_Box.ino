@@ -33,8 +33,18 @@
  * ============================================================================
  */
 
-#include "arduino_compat.h"
 #include "config.h"
+
+// Arduino Core & Desktop Language Server Compatibility Layer
+#if defined(__has_include)
+  #if __has_include(<Arduino.h>)
+    #include <Arduino.h>
+  #else
+    #include "arduino_compat.h"
+  #endif
+#else
+  #include <Arduino.h>
+#endif
 
 // ============================================================================
 // SYSTEM ENUMS & DATA STRUCTURES
