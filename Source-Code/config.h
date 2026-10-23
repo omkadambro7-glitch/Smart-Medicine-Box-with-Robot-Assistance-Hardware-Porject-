@@ -1,8 +1,6 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
-#include <Arduino.h>
-
 /**
  * ============================================================================
  * PROJECT: Smart Medicine Box with Robot Assistance

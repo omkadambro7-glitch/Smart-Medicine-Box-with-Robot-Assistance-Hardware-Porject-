@@ -1,0 +1,9 @@
+Diagnostics:
+  Suppress:
+    - pp_file_not_found
+    - drv_unknown_argument
+CompileFlags:
+  Add:
+    - -std=c++14
+    - -DARDUINO=10819
+    - -DESP32=1
